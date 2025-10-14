@@ -1,0 +1,37 @@
+{
+  "printer": "Microsoft Print to PDF",
+  "Titulo": "****  Koen Pack Colombia  ****",
+  "SizeG_Fuentes": 10,
+  "Alto_Hoja": 80,
+  "Ancho_Hoja": 100,
+  "campos": {
+    "titulo": {
+      "x": 50,
+      "y": 20
+    },
+    "fecha": {
+      "x": 15,
+      "y": 65
+    },
+    "operario": {
+      "x": 15,
+      "y": 95
+    },
+    "codigo_producto": {
+      "x": 15,
+      "y": 125
+    },
+    "nombre_producto": {
+      "x": 15,
+      "y": 155
+    },
+    "cantidad": {
+      "x": 15,
+      "y": 185
+    },
+    "peso": {
+      "x": 15,
+      "y": 215
+    }
+  }
+}

@@ -1,0 +1,36 @@
+# --- Entorno virtual ---
+.venv/
+env/
+venv/
+
+# --- Archivos compilados ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --- Configuración de entorno ---
+.vscode/
+.idea/
+
+# --- Logs y backups ---
+logs/
+backup/
+*.log
+
+# --- Build y distribución ---
+build/
+dist/
+*.spec
+
+# --- Archivos temporales ---
+*.tmp
+*.bak
+*.swp
+
+# --- Archivos de sistema ---
+.DS_Store
+Thumbs.db
+
+# --- Configuraciones locales ---
+# printer_config.json

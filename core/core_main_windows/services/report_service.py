@@ -1,0 +1,1 @@
+# Exportación, logs, CSV, etc.

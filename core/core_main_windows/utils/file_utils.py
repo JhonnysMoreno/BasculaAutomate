@@ -1,0 +1,1 @@
+# Funciones genéricas de lectura/escritura

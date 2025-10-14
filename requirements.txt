@@ -1,0 +1,9 @@
+PyQt5==5.15.9
+pyinstaller==6.3.0
+pyserial==3.5
+pywin32==306
+pywintypes==306
+tkinter==3.10.10
+win32printer==3.0.0
+json==2.0.9
+math==3.10.10

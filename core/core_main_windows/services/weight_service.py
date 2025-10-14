@@ -1,0 +1,1 @@
+# Lectura de báscula (serial)

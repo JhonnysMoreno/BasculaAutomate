@@ -1,0 +1,1 @@
+# Estructura de datos de pesaje
